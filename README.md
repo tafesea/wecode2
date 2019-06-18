@@ -1,2 +1,2 @@
 # wecode2
-just another repository
+just another repositor
